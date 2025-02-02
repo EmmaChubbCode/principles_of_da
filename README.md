@@ -1,1 +1,3 @@
-# principles_of_da
+# Principles of Data Analytics
+
+By Emma Chubb
