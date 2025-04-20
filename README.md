@@ -8,10 +8,12 @@ The dataset itself is notable simple. It contains three classes of Iris flowers:
 ![iris-machinelearning](https://github.com/user-attachments/assets/8f52e519-6d9e-4d01-b5c8-52ce704ff9fb)
 
 ## Libraries
-- numpy:
-- pandas:
-- matplotlib
-- seaborn:
+The libraries used in this analysis are we follows: 
+- pandas
+- numpy
+- sklearn
+- matplotlib.pyplot 
+- seaborn
 
 
 ## References
